@@ -17,22 +17,11 @@
   ],
   "containerPath" : "/Users/kamimura/projects/KTyping/KTyping.xcodeproj",
   "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
   "enableIndexBuildArena" : false,
   "hideShellScriptEnvironment" : false,
   "parameters" : {
     "action" : "indexbuild",
-    "activeArchitecture" : "x86_64",
-    "activeRunDestination" : {
-      "disableOnlyActiveArch" : false,
-      "platform" : "macosx",
-      "sdk" : "macosx14.2",
-      "sdkVariant" : "macos",
-      "supportedArchitectures" : [
-        "x86_64h",
-        "x86_64"
-      ],
-      "targetArchitecture" : "x86_64"
-    },
     "arenaInfo" : {
       "buildIntermediatesPath" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex",
       "buildProductsPath" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Products",
