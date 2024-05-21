@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master.dia",
+    "emit-module-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master.swiftdeps"
+  },
+  "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/kamimura/projects/KTyping/KTyping/AppDelegate.swift" : {
+    "const-values" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/kamimura/projects/KTyping/KTyping/KTypingInputController.swift" : {
+    "const-values" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.swiftconstvalues",
+    "dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.d",
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.dia",
+    "index-unit-output-path" : "/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.o",
+    "llvm-bc" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.bc",
+    "object" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.o",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController.swiftdeps",
+    "swiftmodule" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTypingInputController~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingUITests.build/Objects-normal/x86_64/KTypingUITests-master.d",
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingUITests.build/Objects-normal/x86_64/KTypingUITests-master.dia",
+    "emit-module-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingUITests.build/Objects-normal/x86_64/KTypingUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingUITests.build/Objects-normal/x86_64/KTypingUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingUITests.build/Objects-normal/x86_64/KTypingUITests-master.swiftdeps"
+  },
+  "/Users/kamimura/projects/KTyping/KTypingUITests/KTypingUITests.swift" : {
+
+  },
+  "/Users/kamimura/projects/KTyping/KTypingUITests/KTypingUITestsLaunchTests.swift" : {
+
+  }
+}

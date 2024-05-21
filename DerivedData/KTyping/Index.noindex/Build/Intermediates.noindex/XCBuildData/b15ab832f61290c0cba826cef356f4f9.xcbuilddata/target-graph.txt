@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'KTypingUITests' in project 'KTyping'
+➜ Explicit dependency on target 'KTyping' in project 'KTyping'
+Target 'KTypingTests' in project 'KTyping'
+➜ Explicit dependency on target 'KTyping' in project 'KTyping'
+Target 'KTyping' in project 'KTyping' (no dependencies)

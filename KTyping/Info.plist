@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPrincipalClass</key>
+	<string>$(PRODUCT_MODULE_NAME).NSManualApplication</string>
+	<key>InputMethodConnectionName</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)_Connection</string>
+	<key>InputMethodServerControllerClass</key>
+	<string>$(PRODUCT_MODULE_NAME).KTypingInputController</string>
+	<key>LSBackgroundOnly</key>
+	<true/>
+	<key>ComponentInputModeDict</key>
+	<dict>
+		<key>tsInputModeListKey</key>
+		<dict>
+			<key>com.apple.inputmethod.Japanese</key>
+			<dict>
+				<key>TISInputSourceID</key>
+				<string>com.mkamimura.inputmethod.KTyping</string>
+				<key>TISIntendedLanguage</key>
+				<string>ja</string>
+				<key>tsInputModePrimaryInScriptKey</key>
+				<true/>
+				<key>tsInputModeScriptKey</key>
+				<string>smJapanese</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>tsInputMethodCharacterRepertoireKey</key>
+	<array>
+		<string>Kana</string>
+	</array>
+	<key>tsInputMethodIconFileKey</key>
+	<string>hiragana@2x.png</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master.d",
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master.dia",
+    "emit-module-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/Objects-normal/x86_64/KTyping-master.swiftdeps"
+  },
+  "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/kamimura/projects/KTyping/KTyping/AppDelegate.swift" : {
+
+  },
+  "/Users/kamimura/projects/KTyping/KTyping/KTypingInputController.swift" : {
+
+  }
+}

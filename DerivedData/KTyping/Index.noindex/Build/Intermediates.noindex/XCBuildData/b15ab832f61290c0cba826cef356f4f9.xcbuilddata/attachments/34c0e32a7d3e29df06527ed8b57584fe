@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingTests.build/Objects-normal/x86_64/KTypingTests-master.d",
+    "diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingTests.build/Objects-normal/x86_64/KTypingTests-master.dia",
+    "emit-module-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingTests.build/Objects-normal/x86_64/KTypingTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingTests.build/Objects-normal/x86_64/KTypingTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTypingTests.build/Objects-normal/x86_64/KTypingTests-master.swiftdeps"
+  },
+  "/Users/kamimura/projects/KTyping/KTypingTests/KTypingTests.swift" : {
+
+  }
+}

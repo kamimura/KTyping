@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "6e7f0077fa7c94fedb0c033472b08d6c430fa3492de036467f4a04b102b36f4f"
+build_start_time: [1704021477, 636526000]
+build_end_time: [1704021477, 643446000]
+inputs:
+  ? "/Users/kamimura/projects/KTyping/DerivedData/KTyping/Index.noindex/Build/Intermediates.noindex/KTyping.build/Debug/KTyping.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1704021423, 972750524]
+  "/Users/kamimura/projects/KTyping/KTyping/AppDelegate.swift": !dirty [1704020942, 294653064]
+  "/Users/kamimura/projects/KTyping/KTyping/KTypingInputController.swift": !dirty [1704021057, 864293882]
